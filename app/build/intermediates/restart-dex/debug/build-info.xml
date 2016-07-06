@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="mdpi"
+    format="7"
+    timestamp="13145706650984"
+    token="4408136749229192751" >
+
+    <task
+        name="javac"
+        duration="1753" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="108" />
+    <task
+        name="verifier"
+        duration="18" />
+
+    <artifact
+        location="/Users/macbookair1/Desktop/TextSizeDemo/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="13145706650984" >
+        <artifact
+            location="/Users/macbookair1/Desktop/TextSizeDemo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

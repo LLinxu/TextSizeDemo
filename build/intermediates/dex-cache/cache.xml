@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="89037bbd8b83ca93309cd1ebbf8ad233a1198caf">
+        <dex dex="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/pre-dexed/debug/instant-run_e8803e77834681796632153b76e7df5ee42738c1.jar" />
+    </item>
+    <item
+        jar="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_617c3a33a02bb2ad1007d11cc6f8cb7e0cb2f0bc.jar" />
+    </item>
+    <item
+        jar="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.1_867ec7b7d112bc82da702647a30bbb9ff30f0b2b.jar" />
+    </item>
+    <item
+        jar="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6aa089c36eaa546c50b275db9ebe89deb516357f">
+        <dex dex="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_29d056e7489ceb06803aced5698ea810a42a5649.jar" />
+    </item>
+    <item
+        jar="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.1_ed8d4566ee989be9bde5146cd433df197c620c6c.jar" />
+    </item>
+    <item
+        jar="/Users/macbookair1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/macbookair1/Desktop/TextSizeDemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_bf921db0b14099b7ccf5aa27e44cd2811bbb3cea.jar" />
+    </item>
+
+</items>
